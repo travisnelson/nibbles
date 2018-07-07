@@ -1,0 +1,50 @@
+nibbles.swf Movie Report
+-------------------------
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    ----------------
+      1         182730         182730    Scene 1 (AS 2.0 Classes Export Frame)
+
+Scene                        Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+Scene 1                               48           322                  4768
+
+Symbol                       Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+level1                                50             0                     0
+level2                                77             0                     0
+level3                                82             0                     0
+level4                                93             0                     0
+level5                               130             0                     0
+level8                                54             0                     0
+level7                               100             0                     0
+level6                               131             0                     0
+headerbg                              38             0                     0
+gameover                               0           181                     0
+intro                                 55           188                     0
+paused                                 0            68                     0
+dead                                  54           101                     0
+keyboardbutton                         0             0                     0
+snake                                 32             0                     0
+apple                                 32             0                     0
+levelwarp                             32             0                     0
+
+Font Name                 Bytes        Characters    
+----------------------    ---------    --------------
+Times New Roman Bold           6475     !()-/?ACDEGMNOPRSUVYacdegiklmnoprstuvwy
+
+ActionScript Bytes    Location
+------------------    --------
+              3594    Scene 1:Layer 1:1
+              1174    Scene 1:Layer 1:1:keyboardbutton(keyboardbutton)
+
+Event Sounds: 11KHz Stereo 16 kbps MP3
+
+
+Sound name                 Bytes        Format    
+-----------------------    ---------    ----------
+21418_newgrounds_when_t.mp3 178479        11KHz Mono 16 kbps MP3
+
+
+
+
